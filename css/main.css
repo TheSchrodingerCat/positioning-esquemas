@@ -1,3 +1,40 @@
 /* Inserta tu CSS aqui */
 
+#big-uno, #big-dos{
+	width: 600px;
+	height: 600px;
+}
 
+#big-uno{
+	background-color: #E62B1F;
+}
+
+#big-dos{
+	background-color: 
+}
+
+#medium-uno, #medium-dos{
+	width: 300px;
+	height: 300px;
+}
+
+#medium-uno{
+	background-color: #263ED7;
+}
+
+#medium-dos{
+	background-color: #3B8019;
+}
+
+#small-uno, #small-dos{
+	width: 150px;
+	height: 150px;
+}
+
+#small-uno{
+	background-color: #E6E730;
+}
+
+#small-dos{
+	background-color: #000000;
+}
