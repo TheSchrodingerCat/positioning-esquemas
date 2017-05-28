@@ -30,15 +30,17 @@ bigBoxDos.setAttribute("id","big-dos");
 var segundoSection = document.getElementById("cajitas-dos");
 segundoSection.appendChild(bigBoxDos);
 
+//caja pequeña
+var smallBoxDos = document.createElement("div");
+smallBoxDos.setAttribute("id","small-dos");
+
+bigBoxDos.appendChild(smallBoxDos);
+
 //caja mediana
 var mediumBoxDos = document.createElement("div");
 mediumBoxDos.setAttribute("id","medium-dos");
 
 bigBoxDos.appendChild(mediumBoxDos);
 
-//caja pequeña
-var smallBoxDos = document.createElement("div");
-smallBoxDos.setAttribute("id","small-dos");
 
-bigBoxDos.appendChild("smallBoxDos");
 

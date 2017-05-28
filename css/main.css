@@ -1,8 +1,9 @@
 /* Inserta tu CSS aqui */
 
 #big-uno, #big-dos{
-	width: 600px;
-	height: 600px;
+	width: 400px;
+	height: 400px;
+	margin: 10px;
 }
 
 #big-uno{
@@ -10,25 +11,30 @@
 }
 
 #big-dos{
-	background-color: 
+	background-color: #2E30ED;
 }
 
 #medium-uno, #medium-dos{
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 }
 
 #medium-uno{
 	background-color: #263ED7;
+	position: relative;
+	top: 100px;
+	left: 100px;
 }
 
 #medium-dos{
 	background-color: #3B8019;
+	position: relative;
+	left: 100px;
 }
 
 #small-uno, #small-dos{
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 }
 
 #small-uno{
